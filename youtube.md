@@ -54,7 +54,6 @@
 |                            | UX/UI Design Principles                    |
 
 
-
 # Best YouTube Channels for Learning Web Development Skills
 
 | **Skill**             | **YouTube Resource**                                                                                     |
@@ -79,7 +78,7 @@
                               
 # Best YouTube Channels for Learning DSA
 
-# STRIVER DSA RESOURCES
+## STRIVER DSA RESOURCES
 
 | **Topic**                    | **YouTube Resource**                                                                                      |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -95,6 +94,17 @@
 | **Dynamic Programming**      | [Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)  |
 | **Striver’s A–Z DSA Course** | [A–Z DSA Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)              |
 
+## Aditya verma DSA Resources
 
+| **Topic**           |  **Youtube Resources**                                                            |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| Sliding Window      | [Sliding Window Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) |
+| Binary Search       | [Binary Search Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) |
+| Recursion           | [Recursion Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) |
+| Stack               | [Stack Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) |
+| Heap                | [Heap Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) |
+| Backtracking        | [Backtracking Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdbOTog8Jxk9XOjzUs3egMP) |
+| Graphs              | [Graphs Playlist](https://www.youtube.com/watch?v=fKyMBuJuRyk&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx)|
+| Dynamic Programming | [DP Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) |
 
 # Project Playlist: https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
