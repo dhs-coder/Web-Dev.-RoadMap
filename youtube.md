@@ -76,7 +76,25 @@
 | **GraphQL**           | [GraphQL Tutorial - freeCodeCamp](https://youtu.be/ed8SzALpx1Q)                                        |
 | **Generative AI** | [Web Accessibility - freeCodeCamp](https://youtu.be/pSVk-5WemQ0?si=tj2Nlue_9xhLZRtr)                                       |
 | **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/ypg4uPQTGo0?si=HUUBhJOYKBNacNFd)                                     |
-                               |
+                              
+# Best YouTube Channels for Learning DSA
+
+# STRIVER DSA RESOURCES
+
+| **Topic**                    | **YouTube Resource**                                                                                      |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **C++ Basics**               | [Basics of C++](https://youtu.be/EAR7De6Goz4?si=4ob0z05ZoBj6Uyxy)                                         |
+| **Mathematics**              | [Math Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0oFON1SRGcMqMIhiZ4EXx_F&si=90-Y3MxaUyA4cAiP) |
+| **Arrays**                   | [Array Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB)                |
+| **Bit Manipulation**         | [Bit Manipulation Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rnqh8QsJaHyIX7KUiaPUv7)     |
+| **Recursion**                | [Recursion Intro Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)      |
+| **Linked List**              | [Linked List Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU)          |
+| **Binary Search**            | [Binary Search Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF)        |
+| **Stack & Queues**           | [Stack & Queues Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c)       |
+| **Graphs**                   | [Graphs Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)               |
+| **Dynamic Programming**      | [Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)  |
+| **Striver’s A–Z DSA Course** | [A–Z DSA Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)              |
+
 
 
 # Project Playlist: https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
